@@ -48,11 +48,10 @@ EVs in India for 2022 vs 2024 and 2023 vs 2024, assuming an average
 unit price. 
 
 
-## INSIGHTS DERIVED FROM DATA
+## Key Insights
 
-#### 1. Key Insights
 
-#### Market Performance and Regional Penetration:
+1. Market Performance and Regional Penetration:
 
 • Top States by Sales: Karnataka and Delhi are prominent EV markets, with Karnataka leading in EV sales at 48 million units compared to Delhi’s 16 million. However, both states currently show no recorded penetration rate.
 
@@ -68,6 +67,9 @@ unit price.
 
 ## TOOLS USED
 My SQL: for data Analysis
+
+
+
 Powerbi: for Visualization
 
 
