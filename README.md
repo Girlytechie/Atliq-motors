@@ -12,7 +12,7 @@ This project involves a detailed analysis of India's EV market from 2022 to 2024
 
 
 ## TASKS 
- List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in 
+1.  List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in 
 terms of the number of 2-wheelers sold.
 
 
@@ -50,9 +50,21 @@ unit price.
 
 ## INSIGHTS DERIVED FROM DATA
 
+#### 1. Key Insights
 
+#### Market Performance and Regional Penetration:
 
+• Top States by Sales: Karnataka and Delhi are prominent EV markets, with Karnataka leading in EV sales at 48 million units compared to Delhi’s 16 million. However, both states currently show no recorded penetration rate.
 
+• Top 10 States by CAGR: States including Bihar, Chhattisgarh, and Andhra Pradesh have the highest compounded annual growth rates (CAGR), indicating strong potential for future expansion.
+
+• Negative Penetration States: West Bengal, Andaman and Nicobar Islands, and Arunachal Pradesh have shown declining EV penetration from 2022 to 2024, presenting challenges for market entry or sustained growth in these regions.
+
+2.  Peak and Low Sales Seasons: EV sales peak in months like March, November, and April, with lower activity in June and July. Understanding these seasonal trends can help optimize marketing and inventory strategies.
+
+3. Projected EV Sales for 2030: By 2030, EV sales in the top 10 states by penetration are projected to reach between 15 million to 70 million units, showing significant growth opportunities in high-adoption regions.
+
+4. Growth Rate Estimates for Two-Wheelers and Four-Wheelers: The growth rate for 2-wheelers from 2022 to 2024 is estimated at 8.33%, while there is no growth recorded for 4-wheelers in the same period.
 
 ## TOOLS USED
 My SQL: for data Analysis
@@ -60,3 +72,10 @@ Powerbi: for Visualization
 
 
 ## RECOMMENDATIONS
+#### Primary Reasons for Choosing 4-Wheeler EVs in 2023 and 2024
+
+• Cost Savings: Many customers are drawn to EVs due to lower operational costs compared to traditional vehicles. Savings on fuel, reduced maintenance costs, and lower long-term expenses are strong motivators for 4-wheeler EV adoption.
+
+• Environmental Concerns: Growing awareness of environmental issues has led consumers to prefer EVs as an eco-friendly alternative, especially in states with higher environmental policies and awareness initiatives.
+
+• Government Incentives: Subsidies and incentives, particularly in states with aggressive EV policies, make EV ownership more affordable, driving adoption in states like Delhi and Maharashtra where government support for EVs is high.
